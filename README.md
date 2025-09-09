@@ -8,11 +8,13 @@ I am a Ph.D. student in **Computer Science**, with a research focus on **Novel V
 
 Outside research, I enjoy hiking trails, playing games, and watching TV series.
 
-- Portfolio: [youlenda.github.io](https://youlenda.github.io)  
-- Connect with me:  
-  <a href="mailto:yalda.foroutan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/yaldaforoutan" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yaldaforoutan" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+- [Webpage](https://youlenda.github.io)  
+- [Curriculum Vitae](./Yalda_CV.pdf)  
+
+### Connect with Me  
+<a href="mailto:yalda.foroutan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+<a href="https://twitter.com/yaldaforoutan" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
+<a href="https://linkedin.com/in/yaldaforoutan" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
 
 ---
 
