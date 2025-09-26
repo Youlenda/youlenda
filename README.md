@@ -9,7 +9,7 @@ I am a Ph.D. student in **Computer Science**, with a research focus on **Novel V
 Outside research, I enjoy hiking trails, playing games, and watching TV series.
 
 - [Webpage](https://youlenda.github.io)  
-- [Curriculum Vitae](./Yalda_CV.pdf)  
+- [Curriculum Vitae](./Yalda_Resume.pdf)  
 
 ### Connect with Me  
 <a href="mailto:yalda.foroutan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
